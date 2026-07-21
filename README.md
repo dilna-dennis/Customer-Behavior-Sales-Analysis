@@ -12,7 +12,7 @@ Customer Behavior & Sales Insights Analysis is a data analytics project focused 
 
 
 
-# Customer-Behavior-Sales-Analysis
+# Customer Behavior & Sales Insights Analysis
 
 <img width="1862" height="671" alt="Customer Behavior Sales Analysis" src="https://github.com/user-attachments/assets/fa92de53-7f8e-4245-82ed-5be60bb6e6ac" />
 
